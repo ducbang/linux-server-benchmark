@@ -1,4 +1,4 @@
-# linux-server-benchmark
+Linux Server Benchmarks @ldb
 
 This script will help you to benchmark your Linux Server. From that you can understand more about the power of your Linux server.
 
